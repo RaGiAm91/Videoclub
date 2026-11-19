@@ -4,6 +4,6 @@
 
 @section('content')
 
-<h1>Home del videoclub</h1>
+<h1>videoclub</h1>
 
 @endsection
