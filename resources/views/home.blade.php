@@ -6,4 +6,6 @@
 
 <h1>Home del videoclub</h1>
 
+<p>HOLAAAAAA</p>
+
 @endsection
